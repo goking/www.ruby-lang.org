@@ -1,7 +1,7 @@
 ---
 layout: news_post
 title: "RubyConf Australia 2014 Call For Proposals and Tickets Now Open!"
-author: "Andrew Grimm"
+author: "Go Takahashi"
 translator:
 date: 2013-10-04 11:11:43 UTC
 lang: en
